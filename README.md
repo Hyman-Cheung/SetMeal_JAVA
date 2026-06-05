@@ -1,4 +1,4 @@
-# 🍔 SetMeal Management System
+# 🍔 SetMeal Management System ![Java](https://img.shields.io/badge/java-fa0a2e.svg?style=for-the-badge&logo=openjdk&logoColor=3a7bf2)
 
 This comprehensive Point of Sale (POS) and CRM application runs entirely as a CLI terminal app. Developed in Java, it simulates a restaurant environment featuring secure staff login and signup. The system allows authenticated staff to handle customer orders, manage a membership database with dynamic discounts, and audit store performance metrics.
 
