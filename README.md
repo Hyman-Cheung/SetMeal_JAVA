@@ -12,8 +12,8 @@ Just click the button → Click **Execute** → Start using!
 ## 🎯 Key Application Features
 
 * **Secure Staff Portals:** Restricts operational access behind a secure terminal gatekeeper allowing staff sign-ups, secure authentication, and credentials recovery.
-* **Smart Food Ordering Terminal:** An intuitive multi-stage food selection wizard divided into Main Courses, Drinks, and Snacks with immediate real-time price updates.
-* **Interactive Shopping Basket:** A review screen that groups distinct customer orders, provides individual totals, and allows specific order removal with automated spacing cleanup.
+* **Smart Food Ordering Terminal:** An intuitive multi-stage food selection wizard divided into Main Courses, Drinks.
+* **Interactive Shopping Basket:** A review screen that groups distinct customer orders, provides individual totals, and allows specific order removal.
 * **Automated Member Perks:** A CRM utility that registers customers with unique identities, allowing them to redeem a permanent **20% discount** during transactions.
 * **Financial Auditing Log:** Keeps an persistent operational history tracking total order numbers, structured billing receipts, and gross store turnover.
 
@@ -40,7 +40,7 @@ Finalizes transactions while maintaining consumer relationships:
 * **Membership Lookup & Creation:** Before taking payment, the terminal checks for a registered membership token. New profiles can be generated instantly, creating a random 6-digit identification number associated with the customer's name.
 * **Dynamic Discount Calculation:** Valid members instantly trigger a **20% discount** off the cumulative order amount.
 * **Cash Handeling & Receipts:** Processes cash tender inputs, ensures funds are sufficient, handles change distribution math, and generates a structured, live-timestamped receipt.
-* **Turnover Records:** Safely saves finalized transactions into a master archive screen displaying calculated net profits and gross individual receipts.
+* **Turnover Records:** Safely saves finalized transactions into a master archive screen displaying calculated net profits and gross receipts.
 
 ---
 
