@@ -12,7 +12,7 @@ Just click the button → Click **Execute** → Start using!
 ## 🎯 Key Application Features
 
 * **Secure Staff Portals:** Restricts operational access behind a secure terminal gatekeeper allowing staff sign-ups, secure authentication, and credentials recovery.
-* **Smart Food Ordering Terminal:** An intuitive multi-stage food selection wizard divided into Main Courses, Drinks.
+* **Smart Food Ordering Terminal:** An intuitive multi-stage food selection wizard divided into Main Courses, Drinks and Snack.
 * **Interactive Shopping Basket:** A review screen that groups distinct customer orders, provides individual totals, and allows specific order removal.
 * **Automated Member Perks:** A CRM utility that registers customers with unique identities, allowing them to redeem a permanent **20% discount** during transactions.
 * **Financial Auditing Log:** Keeps an persistent operational history tracking total order numbers, structured billing receipts, and gross store turnover.
